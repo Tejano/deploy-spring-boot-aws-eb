@@ -3,3 +3,5 @@ Yellow
 Brown
 Green
 Purple
+Pink
+Blue
